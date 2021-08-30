@@ -1,0 +1,12 @@
+Package: robust
+Type: Package
+Title: robust
+Version: 0.1
+Author: Addison McGhee
+Maintainer: <aemcghee@wisc.edu>
+Description: This package contains the lad() function, which calculates the Least Absolute Deviations Regression coefficients.
+             It also contains a dataset called area, which contains farm area and land area in the U.S.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
